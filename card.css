@@ -21,17 +21,14 @@ main{
 .image-container {
     margin-inline: 1rem;
 }
-.design {
-    margin-block: 1rem;
-}
 .design{
-    margin-bottom: 1rem;
+    margin-block: 1rem;
     padding: 6px 1.25rem;
     color: #883AE1;
     background-color: #E6D6FC;
     max-width: fit-content;
     border-radius: 1.5rem;
-    font-size: 0.75rem;
+    font-size: 0.625rem;
     font-family: 'Sora', sans-serif;
     font-weight: 600;
 }
