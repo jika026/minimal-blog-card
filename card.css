@@ -46,6 +46,7 @@ main{
     font-family: 'Sora', sans-serif;
     font-weight: 300;
     color: #6C727F;
+    line-height: 20px;
 }
 .texts h1{
     font-size: 1.125rem;
@@ -54,8 +55,8 @@ main{
     color: #20293A;
 }
 .annie {
-    padding-top: 2rem;
-    border-top: 2px solid #FAFAF9;
+    padding-top: 1.5rem;
+    border-top: 3px solid #FAFAF9;
     padding-inline: 1rem;
     font-size: 0.625rem;
     font-family: 'Sora', sans-serif;
